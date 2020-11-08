@@ -1,0 +1,44 @@
+[
+    { 
+        "userId": 1,
+        "id": 1,
+        "title": "barrer la casa",
+        "completed": false
+      },
+      {
+        "userId": 1,
+        "id": 2,
+        "title": "lavar los trastes",
+        "completed": false
+      },
+      {
+        "userId": 1,
+        "id": 3,
+        "title": "lavar la ropa",
+        "completed": false
+      },
+      {
+        "userId": 1,
+        "id": 4,
+        "title": "Mercar",
+        "completed": true
+      },
+      {
+        "userId": 1,
+        "id": 5,
+        "title": "sembrar",
+        "completed": false
+      },
+      {
+        "userId": 1,
+        "id": 6,
+        "title": "estudiar",
+        "completed": false
+      },
+      {
+          "userId": 1,
+          "id": 7,
+          "title": "Hacer la tarea de la profe kellin",
+          "completed": false
+      }
+]
